@@ -33,3 +33,6 @@ Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate
 
 # Identity and Access Management (IAM):
 AWS Identity and Access Management (IAM) enables you to manage access to AWS services and resources securely
+
+# AWS Databricks :
+AWS > Cloud Formation > Stack > Create Stack 
