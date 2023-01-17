@@ -4,4 +4,23 @@
 -Build interactive, advanced analytics applications using data on premises, in your data lake, or in cloud stores.
 -Gain flexibility with support for choice of language, open-data formats, open-source frameworks, and BI and machine learning (ML) tool integration.
 
-#
+#What is Athena?
+-Serverless big data analysis
+-No infrastructure maintenance - pay for the amount of data scanned
+-Use familiar SQL on raw data stored in S3
+-Store your data in S3 as CSV, JSON, Parquet and others
+-Automatic parallel execution for fast performance
+
+#Limitations and Best Practices: 
+-Queries are asynchronous, best effort execution
+-Large queries take longer and are more expensive
+-Performance limitations for complex queries
+-Not suitable for latency sensitive applications
+-Powerful when combined with data ingestion services like Kinesis Firehose
+
+# How to create Athena in AWS :
+AWS > athena > 
+
+
+# Amazon Athena working:
+Amazon s3 > AWS Glue Crawler. > AWS Glue Data Catalog > Amazon Athena > Amazon Quick-Sight 
