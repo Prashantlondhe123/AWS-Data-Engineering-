@@ -1,5 +1,40 @@
+https://www.youtube.com/live/MPau9c7PT74?feature=share
+
 # AWS RDS : Relational Database System
-1] postgresql
-2] MySQL
-3] mariya DB
-4] oracle
+Amazon RDS is a managed relational database service provided by AWS. It makes it easier to set up, operate, and scale relational databases in the AWS cloud. Some of its important features include Dashboard, Databases, Query Editor, Performance Insights, and Snapshots among many others.
+
+The different Database engines that are supported by RDS are:
+
+1. MySQL
+2. SQL Server
+3. PostgreSQL
+4. Oracle
+5. MariaDB
+6. Amazon Aurora
+7. Amazon RDS Custom
+
+#DB instances-
+A DB instance is an isolated database environment in the AWS Cloud. The basic building block of Amazon RDS is the DB instance.
+
+#DB engines-
+A DB engine is the specific relational database software that runs on your DB instance. Amazon RDS currently supports the following engines:
+
+-MySQL
+-MariaDB
+-PostgreSQL
+-Oracle
+-Microsoft SQL Server
+
+#DB instance classes
+A DB instance class determines the computation and memory capacity of a DB instance. A DB instance class consists of both the DB instance type and the size. Each instance type offers different compute, memory, and storage capabilities.
+
+#DB instance storage
+Amazon EBS provides durable, block-level storage volumes that you can attach to a running instance. DB instance storage comes in the following types:
+
+-General Purpose (SSD)
+-Provisioned IOPS (PIOPS)
+- Magnetic
+
+#
+
+
