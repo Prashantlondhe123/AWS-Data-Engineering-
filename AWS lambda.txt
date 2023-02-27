@@ -1,0 +1,24 @@
+# AWS Lambda : 
+-Run code without thinking about servers or clusters
+-Run code without provisioning or managing infrastructure. Simply write and upload code as a .zip file or containe
+-Automatically respond to code execution requests at any scale, from a dozen events per day to hundreds of thousands per second.
+-Save costs by paying only for the compute time you use—by per-millisecond—instead of provisioning infrastructure upfront for peak capacity
+-Optimize code execution time and performance with the right function memory size. Respond to high demand in double-digit milliseconds with Provisioned Concurrency
+-AWS Lambda is a serverless, event-driven compute service that lets you run code for virtually any type of application or backend service without provisioning or managing servers. You can trigger Lambda from over 200 AWS services and software as a service (SaaS) applications, and only pay for what you use
+-
+
+#Use cases:
+-Process data at scale
+-Run interactive web and mobile backends
+-Enable powerful ML insights
+-Create event-driven applications
+-
+
+#Step:- search lambda function in the aws search bar 
+-click on create function 
+1)Auto from scratch 
+2)Use blueprint 
+3) container image
+4) Brouse Serverless app repository
+
+#
