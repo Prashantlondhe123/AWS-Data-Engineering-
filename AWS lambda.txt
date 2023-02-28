@@ -7,6 +7,17 @@
 -AWS Lambda is a serverless, event-driven compute service that lets you run code for virtually any type of application or backend service without provisioning or managing servers. You can trigger Lambda from over 200 AWS services and software as a service (SaaS) applications, and only pay for what you use
 -
 
+
+# Language support :
+-Python
+-node.js
+-java
+-C#
+-Ruby
+
+# Maximum execution durations -<15 min
+#memory allocation 128mb-3008mb
+
 #Use cases:
 -Process data at scale
 -Run interactive web and mobile backends
