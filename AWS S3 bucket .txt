@@ -1,0 +1,23 @@
+# AWS S3 bucket : stands for simple Storage solution
+
+# S3 versioning:
+-Versioning in Amazon S3 is a means of keeping multiple variants of an object in the same bucket. You can use the S3 Versioning feature to preserve, retrieve, and restore every version of every object stored in your buckets. With versioning you can recover more easily from both unintended user actions and application failures. After versioning is enabled for a bucket, if Amazon S3 receives multiple write requests for the same object simultaneously, it stores all of those objects.
+-Versioning-enabled buckets can help you recover objects from accidental deletion or overwrite. For example, if you delete an object, Amazon S3 inserts a delete marker instead of removing the object permanently. The delete marker becomes the current object version. If you overwrite an object, it results in a new object version in the bucket. You can always restore the previous version. For more information
+
+# ACL disabled :
+-Bucket owner enforced – ACLs are disabled, and the bucket owner automatically owns and has full control over every object in the bucket. ACLs no longer affect access permissions to data in the S3 bucket. The bucket uses policies to define access control
+
+# ACL enabled :
+-Bucket owner preferred – The bucket owner owns and has full control over new objects that other accounts write to the bucket with the bucket-owner-full-control canned ACL
+
+#Object writer – The AWS account that uploads an object owns the object, has full control over it, and can grant other users access to it through ACLs
+
+#Tag:
+-Under Tags, you can choose to add tags to your bucket. Tags are key-value pairs used to categorize storage.
+To add a bucket tag, enter a Key and optionally a Value and choose Add Tag
+
+#Encryption key type:
+1)Amazon S3 managed key (SSE-S3)
+2)AWS Key Management Service key (SSE-KMS)
+
+#
