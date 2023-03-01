@@ -32,4 +32,29 @@
 3) container image
 4) Brouse Serverless app repository
 
+#Trigger : A trigger is a resource you configure to allow another AWS service to invoke your function when certain events or conditions occur
+
+#Add destination : 
+Lambda Destinations allow you to specify what to do if an asynchronous invocation succeeds or fails. 
+
+
+#Throttle : At the highest level, throttling just means that Lambda will intentionally reject one of your requests and so what we see from the user side
+
+#layer :A Lambda layer is a . zip file archive that can contain additional code or other content. A layer can contain libraries, a custom runtime, data, or configuration files
+
+#Alias : Alias resource creates an alias for a Lambda function version
+
+#Version: You can use versions to manage the deployment of your functions. For example, you can publish a new version of a function for beta testing without affecting users of the stable production version. Lambda creates a new version of your function each time that you publish the function.
+
+# Asynchronous invocation in lambda function :For asynchronous invocation, Lambda places the event in a queue and returns a success response without additional information. A separate process reads events from the queue and sends them to your function. To invoke a function asynchronously, set the invocation type parameter to Event .
+
+# Stream invocation in aws lmbda : 
+Stream processing function invocations
+
+shard is a uniquely identified sequence f data records. Your function is then invoked to process records from the batch “in order.” If an error is returned, Lambda retries the batch until processing succeeds or the data expires
+
+
 #
+
+
+
