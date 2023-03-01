@@ -19,4 +19,14 @@
 - Availability
 
 
+#Additional concepts in Amazon Redshift:
+1)Column storage
+2)Compression
+
+1) Compression:Compression is a column-level operation which decreases storage requirements
+
+it eventually improves query performances
+
+2) Column Storage:
+
 
