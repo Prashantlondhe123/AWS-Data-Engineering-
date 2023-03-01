@@ -9,4 +9,14 @@
 -scale quickly to meet your need.
 -easy to setup deploy and manage
 
-#
+# Advantages-Amazon Redshift costs less to operate than any other cloud data warehouse
+-Performance matters and Amazon Redshift is the fastest data warehouse available
+-15k More than 15k customers use Amazon Redshift
+-High performance
+-Scalability
+-Low Cost
+-Security
+- Availability
+
+
+
