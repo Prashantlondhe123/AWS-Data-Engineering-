@@ -1,5 +1,23 @@
 # AWS Glue :
-AWS Glue is a serverless data integration service that makes it easier to discover, prepare, move, and integrate data from multiple sources for analytics, machine learning (ML), and application dev
+AWS Glue is a serverless data integration service that makes it easier to discover, prepare, move, and integrate data from multiple sources for analytics, machine learning (ML), and application development
 
-elopments
+1]Discover, prepare, and integrate all your data at any scale
+2]Build and manage a modern data pipeline with a single data integration service.
+3]Keep costs low and focus more on your data at any scale with serverless data in
+tegration.
+4]Use your favorite method: drag and drop, write code, or connect using your notebook.
+5]Support various data processing methods and workloads, including ETL, ELT, batch, and streaming.
+
+# Advantage:
+- monitor amd debug ETL job and track usage 
+-Connect to your data store 
+-orchestra job to build data pipe line
+-manage and protect data
+-visually clean and prepare data set for analysis
+-administration
+
+
+
+
+
 
