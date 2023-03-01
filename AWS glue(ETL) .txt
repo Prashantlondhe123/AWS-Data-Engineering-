@@ -16,8 +16,26 @@ tegration.
 -visually clean and prepare data set for analysis
 -administration
 
+#Connection in AWS glue data catalog:
+-An AWS Glue connection is a Data Catalog object that stores login credentials, URI strings, virtual private cloud (VPC) information, and more for a particular data store. AWS Glue crawlers, jobs, and development endpoints use connections in order to access certain types of data stores
 
+1) Marketplace Connector 
+2) Custom connector
 
+# Crawler:
+-You can use a crawler to populate the AWS Glue Data Catalog with tables. This is the primary method used by most AWS Glue users. A crawler can crawl multiple data stores in a single run. Upon completion, the crawler creates or updates one or more tables in your Data Catalog
+
+# Classifiers:
+-Classifiers are triggered during a crawl task. A classifier checks whether a given file is in a format the crawler can handle. If it is, the classifier creates a schema in the form of a StructType object that matches that data format.
+
+# Trigger in AWS glue :
+-trigger starts a job when it Fires
+
+#Workflows :
+-A workflow is an orchestration used to visualize and manage the relationship and execution of multiple triggers, jobs and crawlers.
+
+# Blueprints :
+-A blueprint is used to generate AWS Glue workflows for common ETL use cases in your organization.
 
 
 
