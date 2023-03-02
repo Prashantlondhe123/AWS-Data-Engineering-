@@ -37,5 +37,13 @@ tegration.
 # Blueprints :
 -A blueprint is used to generate AWS Glue workflows for common ETL use cases in your organization.
 
+#PARTITIONS IN AWS: 
+Folders where data is stored on S3, which are physical entities, are mapped to partitions, which are logical entities i.e. Columns in the Glue table.
+
+#AWS GLUE JOBS:
+The business logic that is required to perform ETL work. It is composed of a transformation script, data sources, and data targets. Job runs are initiated by triggers that can be scheduled or triggered by events.
+
+#
+
 
 
