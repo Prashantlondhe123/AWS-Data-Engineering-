@@ -8,6 +8,8 @@ tegration.
 4]Use your favorite method: drag and drop, write code, or connect using your notebook.
 5]Support various data processing methods and workloads, including ETL, ELT, batch, and streaming.
 
+################ Data Catalog : 
+
 # Advantage:
 - monitor amd debug ETL job and track usage 
 -Connect to your data store 
@@ -43,7 +45,11 @@ Folders where data is stored on S3, which are physical entities, are mapped to p
 #AWS GLUE JOBS:
 The business logic that is required to perform ETL work. It is composed of a transformation script, data sources, and data targets. Job runs are initiated by triggers that can be scheduled or triggered by events.
 
-#
+#Step 1 : create crawler to create table using S3 buckets 
 
+Step2:crawler will automatically create data base and table 
 
+Step3:
+
+#####################################
 
