@@ -1,5 +1,39 @@
 #AWS EMR: Big data Processing Techniques
--AWS EMR (Amazon Web Services Elastic MapReduce) is a cloud-based big data processing service provided by Amazon Web Services. It enables users to process large amounts of data using open-source tools like Apache Spark, Apache Hadoop, Apache Hive, and Apache Pig. With EMR, users can easily spin up and scale clusters to handle large data workloads in a matter of minutes.
+-Amazon EMR is a managed cluster platform that simplifies running big data frameworks, such as Apache Hadoop and Apache Spark, on AWS to process and analyze vast amounts of data. By using these frameworks and related open-source projects, such as Apache Hive and Apache Pig, you can process data for analytics purposes and business intelligence workloads. 
+
+#Benefits of Amazon EMR:
+1)Cost Efficient 
+2)Allows AWS Integration
+3)Easy Deployment
+4)Scalable and Flexible 
+5)Reliable 
+6)Secure
+7)Easy Management 
+8)Easy to Monitor 
+
+#EMR Architecture: 
+-The main processing frameworks available for Amazon EMR are Hadoop MapReduce and Spark. 
+
+#EMR Applications : 
+-Amazon EMR supports many applications, such as Hive, Pig, and the Spark Streaming library to provide capabilities such as using higher-level languages to create processing workloads, leveraging machine learning algorithms, making stream processing applications, and building data warehouses. In addition, Amazon EMR also supports open-source projects that have their own cluster management functionality instead of using YARN. 
+
+# Components in AWS EMR :
+1) Clusters 
+2) Notebook 
+3) Security configuration 
+4) VPC subnet. 
+5) Event 
+6) Repository 
+
+
+
+
+
+
+
+
+
+Amazon EMR is a managed cluster platform that simplifies running big data frameworks, such as Apache Hadoop and Apache Spark, on AWS to process and analyze vast amounts of data. By using these frameworks and related open-source projects, such as Apache Hive and Apache Pig, you can process data for analytics purposes and business intelligence workloAWS EMR (Amazon Web Services Elastic MapReduce) is a cloud-based big data processing service provided by Amazon Web Services. It enables users to process large amounts of data using open-source tools like Apache Spark, Apache Hadoop, Apache Hive, and Apache Pig. With EMR, users can easily spin up and scale clusters to handle large data workloads in a matter of minutes.
 
 
 
