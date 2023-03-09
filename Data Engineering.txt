@@ -43,4 +43,42 @@ AWS > Cloud Formation > Stack > Create Stack
  # Elastic compute cloud (EC2):
  Amazon Elastic Compute Cloud (Amazon EC2) is a web-based service that allows businesses to run application programs in the Amazon Web Services (AWS) public cloud.
  
- #
+ # Comman Cloud Services : 
+ - Storage
+ - Database
+ -Compute 
+ - Networking
+ 
+ #Type of Cloud computing :
+ 1) IAAS 
+ 2) PAAS 
+ 3) SAAS 
+ 
+# Type of Cloud :
+1) Public
+2) Private 
+3)Hybrid 
+
+1)Public Cloud
+-Everything (the workload or project) is built on the CSP Also known as: *Cloud-Native or Cloud First
+
+2) Private Cloud :
+-Everything built on company's datacenters
+
+Also known as On-Premise
+
+The cloud could be OpenStack
+
+3)Hybrid :
+-Using both On-Premise and
+A cloud services provider 
+
+4) Cross Cloud : combination of multiple Cloud 
+
+#
+
+
+
+
+
+
